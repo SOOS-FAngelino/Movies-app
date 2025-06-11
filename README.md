@@ -89,7 +89,7 @@ test
 test
 test
 prod-test
-prod-test
+prod-test test
 test
 prod test
 test
